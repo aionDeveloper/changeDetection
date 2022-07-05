@@ -1,5 +1,5 @@
 const user = JSON.parse(localStorage.getItem(CONSTANTS.LOCAL_STORAGE_KEY))
-isAuthorized();
+// isAuthorized();
 getAllData();
 //Declarations of variables
 let clicksEncro = 0;
